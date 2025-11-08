@@ -4,11 +4,14 @@ A multi-LLM chatbot integrating **Gemini + other LLM models**, designed to route
 This project builds on a Next.js + TypeScript base and adds Gemini integration + routing logic.
 
 > Built by **Shakshi Pal** during exploration of LLM + agentic AI workflows.
+
+
 📸 Gemini Chat Demo
 
 This project integrates Google Gemini models into a multi-LLM routing chatbot.
 Below is a sample interaction using Gemini 2.5 Pro:
-![Uploading image.png…]()
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/9837e90e-2258-48d8-a012-bf8c47d92ff8" />
+
 
 ---
 
