@@ -58,7 +58,7 @@ multi-model-chatbot-gemini/
 ├── README.md
 ├── next.config.js
 ├── .env.example
-└── LICENSE
+
 
 
 ---
@@ -139,28 +139,6 @@ Voice input
 📸 Demo
 (Add screenshots here)
 
-✨ Author
-Shakshi Pal
-M.Sc. Data Science — IIIT Lucknow
-GitHub: github.com/Shakshi123pal
-
----
-
-# ✅ Why this is better
-✔ Matches real files + stack  
-✔ No copy-paste looking content  
-✔ Shows YOUR contributions  
-✔ Short + clean  
-✔ Hiring-ready  
-
----
-
-# ✅ IMPORTANT → What you must add
-✅ A short section describing **Your Contribution**  
-since repo is template-based
-
-Example:
-
 
 ✅ My Contributions
 
@@ -178,27 +156,6 @@ Added environment configuration for Gemini
 
 
 Cleaned deployment setup
-
-
-
-This is **crucial** —  
-so reviewer knows what YOU built vs what came from original template.
-
----
-
-# ✅ Next step
-If you want,  
-I can also write a **tiny banner in README**:
-
-> "This project is adapted from an open-source template; extended with Gemini routing + custom logic."
-
-This makes everything transparent + honest.  
-Good for interviews ✅
-
----
-
-If you want,  
-I can also prepare a **short RESUME bullet** for this project.
 
 
 ✨ Author
