@@ -97,24 +97,24 @@ GEMINI_API_KEY=xxxx
 4️⃣ Run
 npm run dev
 
-🔥 Routing Logic
-Located in:
-src/libs
+````
 
-Routing decisions are based on:
+✅ My Contributions
 
 
-User intent
+Integrated Gemini provider
 
 
-Domain
+Added multi-model routing logic
 
 
-Required capability
+Updated UI flow for switching models
 
 
-Model availability
+Added environment configuration for Gemini
 
+
+Cleaned deployment setup
 
 
 🔮 Future Improvements
@@ -133,29 +133,6 @@ More model adapters
 
 
 Voice input
-
-
-
-📸 Demo
-(Add screenshots here)
-
-
-✅ My Contributions
-
-
-Integrated Gemini provider
-
-
-Added multi-model routing logic
-
-
-Updated UI flow for switching models
-
-
-Added environment configuration for Gemini
-
-
-Cleaned deployment setup
 
 
 ✨ Author
